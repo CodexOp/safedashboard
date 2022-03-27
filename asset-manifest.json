@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/safedashboard/static/css/main.d183b501.css",
+    "main.js": "/safedashboard/static/js/main.20aa392f.js",
+    "static/js/787.ad158a58.chunk.js": "/safedashboard/static/js/787.ad158a58.chunk.js",
+    "static/media/logo.png": "/safedashboard/static/media/logo.cb4443b2929f830d4768.png",
+    "static/media/logo.svg": "/safedashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/safedashboard/index.html",
+    "main.d183b501.css.map": "/safedashboard/static/css/main.d183b501.css.map",
+    "main.20aa392f.js.map": "/safedashboard/static/js/main.20aa392f.js.map",
+    "787.ad158a58.chunk.js.map": "/safedashboard/static/js/787.ad158a58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d183b501.css",
+    "static/js/main.20aa392f.js"
+  ]
+}
